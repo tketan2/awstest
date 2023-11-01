@@ -1,0 +1,13 @@
+chromedriver_autoinstaller==0.6.2
+face_recognition==1.3.0
+Flask==3.0.0
+jdatetime==4.1.1
+numpy==1.26.1
+pyperclip==1.8.2
+PyQt5==5.15.10
+python_json_logger==2.0.7
+pytz==2022.1
+Requests==2.31.0
+selenium==4.14.0
+webdriver_manager==4.0.1
+xlrd==2.0.1
